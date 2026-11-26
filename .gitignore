@@ -1,7 +1,5 @@
-# Environnement virtuel
-venv/
-# Fichiers de configuration Jupyter Notebook
+.DS_Store
 .ipynb_checkpoints/
-# Fichiers temporaires
-*.pyc
 __pycache__/
+*.pyc
+.env
